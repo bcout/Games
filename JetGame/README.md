@@ -2,7 +2,7 @@
 
 Navigate through the obstacles while the timer runs down. Go until you lose.
 
-Download the [zip](https://github.com/bcout/unity/blob/main/Jet%20Game/Jet%20Game.zip) to play!
+Download the [zip](/Releases/) to play!
 
 # Controls
 
