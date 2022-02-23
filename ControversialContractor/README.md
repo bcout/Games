@@ -1,4 +1,4 @@
-# Controversial_Contractor
+# Controversial Contractor
 A game made in GameMaker Studio 1.4
 
 Build a pipeline to transport your boss's oil to his refinery in the East. Don't let anyone get in your way!
