@@ -2,7 +2,7 @@
 
 Navigate through the obstacles while the timer runs down. Go until you lose.
 
-Download the [zip](/Releases/) to play!
+Download the [zip](https://github.com/bcout/Games/tree/main/JetGame/Releases) to play!
 
 # Controls
 
