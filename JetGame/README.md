@@ -11,8 +11,8 @@ P, A, D, S to toggle lighting
 
 # Screenshots
 
-![Images/1](1.PNG)
+![1](Images/1.PNG)
 
-![Images/2](2.PNG)
+![2](Images/2.PNG)
 
-![Images/3](3.PNG)
+![3](Images/3.PNG)
