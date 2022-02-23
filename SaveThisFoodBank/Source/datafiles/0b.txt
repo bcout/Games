@@ -1,0 +1,13 @@
+$Hello. Can I help you?
+Oh, please tell me you are here to volunteer.
+...! You are?!
+$Amazing! We were hoping someone would see our messages and decide to help out.
+$You see, this food bank helps hundreds of people, but it is not funded by the government. We rely on public donation to stay operational.
+$The problem is, there are more people in need than the two of us can provide for. You saw the line outside; our supplies of food are dangerously low.
+$If we can't feed these people, our public support will disappear. This food bank will disappear. And one of the only centers fighting to keep these people fed will be gone.
+$I can't let that happen.
+We just need someone willing to go out and collect food to fill our stores. Any food you can find would be more than helpful.
+%*bzzzzzzz* *bzzzzzzz* *bzzzzzzz*
+$Oh, that's me. Hello? Yes... Ok... I will be right over.
+$I have to leave, but you are in capable hands.
+$Please, help us save this food bank.
